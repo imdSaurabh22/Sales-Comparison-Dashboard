@@ -1,4 +1,5 @@
 # Sales-Comparison-Dashboard
+![Dashboard 1](https://github.com/user-attachments/assets/8e21404a-c11b-4941-8a0c-8040cf2424c7)
 Steps to Perform: 
 1.	Select Sample Superstore as Dataset  
 1.	Use Sample Superstore Dataset
